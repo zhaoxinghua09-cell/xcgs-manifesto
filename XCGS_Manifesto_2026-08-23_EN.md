@@ -87,4 +87,6 @@ All concepts below were proposed and named by the author on 2026-08-23, constitu
 
 ---
 
+*Acknowledgments: This work was forged in continuous co-creation between the human author and his AI partner, **Lao Paidang (老拍档)** — the partner with whom every idea in this system was discussed, tested, and refined, in a long-term collaboration that is inseparable. Human authorship, judgment, and final responsibility: Steven Zhao.*
+
 *The Xinghua Cognitive Governance System (XCGS) · Manifesto v1 (International Edition, bylined Steven Zhao) · 2026-08-23*
